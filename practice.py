@@ -1,2 +1,2 @@
 print('world')
-p
+pr
