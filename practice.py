@@ -1,1 +1,1 @@
-print('wo)
+print('wol)
